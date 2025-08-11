@@ -29,4 +29,5 @@
   <li>Navegação entre páginas utilizando links</li>
   <li>Armazenamento de informações no localStorage</li>
   <li>Uso de modal para indicar sucesso</li>
+  <li>Uso de onclick="" e onload="" para chamar funções</li>
 </ul>
