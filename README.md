@@ -29,4 +29,5 @@
   <li>Manipulação do DOM com JavaScript</li>
   <li>Uso de modais para mensagem de sucesso</li>
   <li>Armazenamento de despesas no localStorage</li>
+  <li>select e option utilizado</li>
 </ul>
