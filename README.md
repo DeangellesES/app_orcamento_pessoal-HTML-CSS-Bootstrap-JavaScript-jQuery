@@ -3,7 +3,7 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Projeto front-end de um app para controlar orçamento pessoal desenvolvido para estudar e práticar JavaScript e Bootstrap.</p>
 
-<h3>💻<a href="https://deangelleses.github.io/app_orcamento_pessoal-HTML-CSS-Bootstrap-JavaScript-jQuery/consulta.html" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/app_orcamento_pessoal-HTML-CSS-Bootstrap-JavaScript-jQuery/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
@@ -26,4 +26,5 @@
   <li>cdns e script no head</li>
   <li>Icon na aba do site</li>
   <li>Manipulação do DOM com JavaScript</li>
+  <li>Bootstrap para estilizar</li>
 </ul>
