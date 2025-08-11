@@ -20,7 +20,7 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Paradgma de Programação Orientado a Objetos e Estruturado</li>
+  <li>Paradigma de Programação Orientado a Objetos e Estruturado</li>
   <li>Framework Bootstrap e jQuery Utilizados</li>
   <li>Icones do fontawesome para colocar icones</li>
   <li>cdns e script no head</li>
