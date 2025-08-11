@@ -23,6 +23,7 @@
   <li>Paradigma de Programação Orientado a Objetos e Estruturado</li>
   <li>Framework Bootstrap e jQuery Utilizados</li>
   <li>Icones do fontawesome para colocar icones</li>
+  <li>Uso de cdns para os frameworks</li>
   <li>cdns e script no head</li>
   <li>Icon na aba do site</li>
   <li>Manipulação do DOM com JavaScript</li>
