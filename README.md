@@ -25,4 +25,5 @@
   <li>Icones do fontawesome para colocar icones</li>
   <li>cdns e script no head</li>
   <li>Icon na aba do site</li>
+  <li>Manipulação do DOM com JavaScript</li>
 </ul>
