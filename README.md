@@ -20,13 +20,13 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Paradigma Estruturado</li>
-  <li>Framework Bootstrap Utilizados</li>
-  <li>Uso de cdns para o framework bootstrap</li>
+  <li>Paradigma de programação Orientada a Objetos e Estruturado</li>
+  <li>Framework Bootstrap e jQuery Utilizados</li>
+  <li>Uso de cdns para os frameworks</li>
   <li>Manipulação do DOM com JavaScript</li>
   <li>select e option utilizado</li>
-  <li>Código javascript no no arquivo html e no arquivo JS</li>
-  <li>window.location.href para navegar entre arquivos</li>
-  <li>transform: scaleX(1) e transform: scaleX(-1) para aumentar e diminuir mosquitos</li>
-  <li>metodos replace, setInterval, clearInterval, remove, Math.floor, Math.random() e appendChild utilizados</li>
+  <li>Uso de icon para aba</li>
+  <li>Navegação entre páginas utilizando links</li>
+  <li>Armazenamento de informações no localStorage</li>
+  <li>Uso de modal para indicar sucesso</li>
 </ul>
