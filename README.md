@@ -26,5 +26,6 @@
   <li>cdns e script no head</li>
   <li>Icon na aba do site</li>
   <li>Manipulação do DOM com JavaScript</li>
-  <li>Bootstrap para estilizar</li>
+  <li>Uso de modais para mensagem de sucesso</li>
+  <li>Armazenamento de despesas no localStorage</li>
 </ul>
