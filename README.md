@@ -25,7 +25,7 @@
   <li>Uso de cdns para os frameworks</li>
   <li>Manipulação do DOM com JavaScript</li>
   <li>select e option utilizado</li>
-  <li>Uso de icon para aba</li>
+  <li>Uso de icon para a aba</li>
   <li>Navegação entre páginas utilizando links</li>
   <li>Armazenamento de informações no localStorage</li>
   <li>Uso de modal para indicar sucesso</li>
