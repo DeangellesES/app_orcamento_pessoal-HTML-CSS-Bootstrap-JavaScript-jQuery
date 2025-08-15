@@ -1,4 +1,4 @@
-<h1>Projeto: Projeto Orçamento Pessoal</h1>
+<h1>Projeto: Orçamento Pessoal</h1>
 
 <h2>📌 Sobre o Projeto</h2>
 <p>Projeto front-end de um app para controlar orçamento pessoal desenvolvido para estudar e práticar JavaScript e Bootstrap.</p>
