@@ -1,7 +1,7 @@
 <h1>Projeto: Orçamento Pessoal</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de um app para controlar orçamento pessoal desenvolvido para estudar e práticar JavaScript e Bootstrap.</p>
+<p>Projeto front-end de um app para controlar orçamento pessoal desenvolvido para estudar e praticar JavaScript e Bootstrap.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/app_orcamento_pessoal-HTML-CSS-Bootstrap-JavaScript-jQuery/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
