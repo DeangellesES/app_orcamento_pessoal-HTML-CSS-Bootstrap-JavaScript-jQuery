@@ -12,7 +12,7 @@
   <li><b>JavaScript</b> - jQuery</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Controlar todas as despesas</li>
   <li>adicionar e excluir despesas</li>
